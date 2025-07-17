@@ -5,3 +5,4 @@ COPY qi/ /usr/share/nginx/html/index.html
 CMD ["nginx", "-g", "daemon off;"] 
 #daemon off means run in foreground
 
+#hello
